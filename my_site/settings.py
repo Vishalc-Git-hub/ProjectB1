@@ -24,8 +24,8 @@ SECRET_KEY = 'l1s5h%-io2b)u&4__&ms1g=x@b0v+!a!o2z6#sl!t$l45$ah^6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-ALLOWED_HOSTS = ['your-app-name.onrender.com']
+# https://vishal-blog-l0dv.onrender.com
+ALLOWED_HOSTS = ['vishal-blog-l0dv.onrender.com']
 
 
 # Application definition
